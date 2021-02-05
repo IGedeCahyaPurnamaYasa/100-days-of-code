@@ -11,3 +11,9 @@
 **Today's Progress**: Still on progres of recreating my old project, finish with admin design and layout. And will going into code backend
 
 **Thoughts:** In the first place I'm not really frontend programmer, but playing with bootsrap and style is kind of fun :D
+
+### Day 3: February 05, 2021
+
+**Today's Progress**: Done with frontend, now working on backend start playing with uncommon method that I used XD just trying to explore something
+
+**Thoughts:** doesnt really know some jquery and new function so need stackoverflow for help XD, but the schedule still on track 
