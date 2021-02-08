@@ -17,3 +17,9 @@
 **Today's Progress**: Done with frontend, now working on backend start playing with uncommon method that I used XD just trying to explore something
 
 **Thoughts:** doesnt really know some jquery and new function so need stackoverflow for help XD, but the schedule still on track 
+
+### Day 4: February 07, 2021
+
+**Today's Progress**: Still progressing on backend trying to make the function efficient with javascript and php, skipping 1 day but will payit back later
+
+**Thoughts:** progress a little slow because have something todo at night, and got a little headache but still trying for fastforwarding the project
